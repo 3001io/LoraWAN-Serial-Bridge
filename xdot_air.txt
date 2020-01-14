@@ -1,0 +1,43 @@
+{ 
+   "tmst":1405695092,
+   "chan":1,
+   "rfch":0,
+   "freq":902.5,
+   "stat":1,
+   "modu":"LORA",
+   "datr":"SF10BW125",
+   "codr":"4/5",
+   "lsnr":11.8,
+   "rssi":-48,
+   "opts":"",
+   "size":11,
+   "fcnt":75,
+   "cls":0,
+   "port":1,
+   "mhdr":"40a0f1ff01004b00",
+   "appeui":"38-78-00-5b-9d-1a-d8-41",
+   "deveui":"00-80-00-00-04-00-15-17",
+   "ack":false,
+   "adr":false,
+   "gweui":"00-80-00-00-a0-00-27-b4",
+   "seqn":75,
+   "time":"2019-10-26T19:48:06.162441Z",
+   "payload":[ 
+      34,
+      44,
+      32,
+      34,
+      100,
+      97,
+      116,
+      101,
+      116,
+      105,
+      109
+   ],
+   "eui":"00-80-00-00-04-00-15-17",
+   "_msgid":"a6c92272.5936e"
+}
+
+So if you put it in a JSON object you can access the data as seen here
+https://www.w3schools.com/js/js_json_objects.asp
